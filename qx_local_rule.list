@@ -1,5 +1,5 @@
 # Web
-host, ixlad.com
+host-suffix, ixlad.com
 # Emby
 host-suffix, pub1.emby.wtf
 host-suffix, pub1.term.wtf
