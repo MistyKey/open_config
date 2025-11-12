@@ -1,13 +1,13 @@
 # Web
-host-suffix, ixlad.com
+HOST, ixlad.com
 # Emby
-host-suffix, pub1.emby.wtf
-host-suffix, pub1.term.wtf
+HOST-SUFFIX, pub1.emby.wtf
+HOST-SUFFIX, pub1.term.wtf
 # API Interface
-host-suffix, api.120399.xyz
-host-suffix, vercel.app
+HOST-SUFFIX, api.120399.xyz
+HOST-SUFFIX, vercel.app
 # Local Tools
-host-suffix, script.hub
-host-suffix, sub.store
-host-suffix, boxjs.com
-host-suffix, jsdelivr.net
+HOST-SUFFIX, script.hub
+HOST-SUFFIX, sub.store
+HOST-SUFFIX, boxjs.com
+HOST-SUFFIX, jsdelivr.net
