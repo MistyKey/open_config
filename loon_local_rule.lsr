@@ -1,0 +1,21 @@
+# other app and web
+DOMAIN,i.lxlad.com
+DOMAIN-KEYWORD,minepi
+# API Interface
+DOMAIN,api.palera.in
+DOMAIN,agent.curtin.top
+DOMAIN-SUFFIX,api.120399.xyz
+DOMAIN-SUFFIX,pyrsshub.vercel.app
+DOMAIN-SUFFIX,api.binance.com
+# emby
+DOMAIN-SUFFIX,pub1.term.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,playz.mjji.de
+# Porn
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,phncdn
+DOMAIN-SUFFIX,heiliao.com
+# Node
+DOMAIN-SUFFIX,script.hub
+DOMAIN-SUFFIX,sub.store
+DOMAIN-SUFFIX,luolicon.ru

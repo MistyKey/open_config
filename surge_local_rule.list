@@ -1,0 +1,30 @@
+# Local_macOS
+DOMAIN-KEYWORD,brew
+DOMAIN-KEYWORD,rust
+DOMAIN-SUFFIX,ghcr.io
+# Single App
+DOMAIN-KEYWORD,minepi
+# Web Utils
+DOMAIN-SUFFIX,luolicon.ru
+DOMAIN,i.lxlad.com
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,sleazyfork.org
+# API Interface
+DOMAIN-SUFFIX,dompling.github.io
+DOMAIN,agent.curtin.top
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,boxjs.com
+DOMAIN-SUFFIX,script.hub
+DOMAIN_SUFFIX,sub.store
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,api.120399.xyz
+# Media Index
+DOMAIN-SUFFIX,pub2.term.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1.term.wtf
+DOMAIN-SUFFIX,playz.mjji.de
+DOMAIN-SUFFIX,heiliao.com
+DOMAIN-KEYWORD,phncdn
+DOMAIN-KEYWORD,pornhub
