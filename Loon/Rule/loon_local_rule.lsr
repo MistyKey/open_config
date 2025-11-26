@@ -1,3 +1,7 @@
+# testflight app
+DOMAIN-SUFFIX,departures.to
+# book
+DOMAIN-SUFFIX,z-library.sk
 # universal
 DOMAIN-SUFFIX,vercel.app
 # other app and web
